@@ -1,4 +1,4 @@
-package Engin;
+package com.nextBaseCRM.Engin;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

@@ -1,4 +1,4 @@
-package Sergii_Ostapchuk;
+package com.nextBaseCRM.Sergii_Ostapchuk;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
